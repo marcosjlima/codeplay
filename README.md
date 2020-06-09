@@ -1,2 +1,2 @@
 # codeplay
-Projeto para estudos Java, Spring Boot e Docker
+Projeto para estudos Java com Spring Boot e Docker
